@@ -24,7 +24,7 @@ if(isset($_POST['action'])){
                 $output .= '
                     <tr>
                             <td>'.$row['id'].'</td>
-                            <td >'.$row['fname'].'</td>
+                            <td>'.$row['fname'].'</td>
                             <td>'.$row['lname'].'</td>
                             <td>'.$row['email'].'</td>
                             <td>'.$row['phone'].'</td>
