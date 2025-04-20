@@ -169,7 +169,7 @@
                 data: $('#edit-form-data').serialize()+"&action=update",
                 success:function(res){
                     Swal.fire({
-                        title: "Add Success",
+                        title: "Update Success",
                         icon: "success",
                         draggable: false
                         });
